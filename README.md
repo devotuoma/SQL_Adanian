@@ -1,4 +1,4 @@
-SQL Practical Assignment – Brief Write-U
+SQL Practical Assignment – Brief Write-Up
 
 
 This assignment focused on testing essential SQL skills within a simulated educational institution’s database environment. The primary objective was to create and manipulate a student records database using SQL operations via Google Colab with SQLite.
